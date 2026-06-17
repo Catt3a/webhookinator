@@ -5,7 +5,7 @@ const chillout = "https://kappjyhgnyeetqhzwcpn.supabase.co/rest/v1/system_config
 const chillout2 = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImthcHBqeWhnbnllZXRxaHp3Y3BuIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc2OTg0NDY4MiwiZXhwIjoyMDg1NDIwNjgyfQ.-XWR3RDlGstIrF-SC3VMaqcYXA7EgIZ-I9FyDO9bWDQ";
 
 const data = {
-  content: 'ntcn'
+  content: 'хихихихихихихи @everyone @everyone @everyone @everyone @everyone @everyone @everyone @everyone @everyone @everyone @everyone @everyone @everyone @everyone @everyone @everyone @everyone @everyone @everyone @everyone @everyone @everyone @everyone @everyone @everyone @everyone @everyone хихихихихихи'
 };
 
 async function sendWebhook(webhook_) {
