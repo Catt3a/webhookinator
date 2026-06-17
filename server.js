@@ -59,7 +59,7 @@ async function main() {
     while (true) {
         await delay(15000);
         let webhook = await getLiveEndpoint();
-        console.log(webhook);
+        console.log("вебхук: " + webhook);
         sendWebhook();
         await delay(5000);
         deleteWebhook(webhook);
